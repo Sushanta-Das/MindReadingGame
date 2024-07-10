@@ -1,2 +1,3 @@
-# NumberGuessingGame
-This is a number guessing game 
+# Mind Reading game
+link https://sushanta-das.github.io/NumberGuessingGame/
+
